@@ -1,0 +1,16 @@
+\BOOKMARK [0][-]{section*.1}{Details of my Boltzmann code [Multisector Dark Freezeout Integration Scheme \(MuDFISh\) or something else]}{}% 1
+\BOOKMARK [1][-]{section*.2}{Introduction}{section*.1}% 2
+\BOOKMARK [1][-]{section*.3}{Particles}{section*.1}% 3
+\BOOKMARK [1][-]{section*.4}{Amplitudes}{section*.1}% 4
+\BOOKMARK [2][-]{section*.5}{Decays and Inverse Decays}{section*.4}% 5
+\BOOKMARK [2][-]{section*.6}{22 Scattering and Annihilation}{section*.4}% 6
+\BOOKMARK [2][-]{section*.7}{Five Point Interactions}{section*.4}% 7
+\BOOKMARK [1][-]{section*.8}{Processes}{section*.1}% 8
+\BOOKMARK [2][-]{section*.9}{ALPs Decaying to Photons}{section*.8}% 9
+\BOOKMARK [2][-]{section*.10}{ALPs decaying to electrons}{section*.8}% 10
+\BOOKMARK [2][-]{section*.11}{Pions Annihilating to ALPs}{section*.8}% 11
+\BOOKMARK [2][-]{section*.12}{The Effects of Different Temperatures}{section*.8}% 12
+\BOOKMARK [1][-]{section*.13}{Solving the Boltzmann Equations}{section*.1}% 13
+\BOOKMARK [2][-]{section*.14}{Implicit Methods for Stiff Systems of Equations}{section*.13}% 14
+\BOOKMARK [2][-]{section*.15}{Stable Variable Choice}{section*.13}% 15
+\BOOKMARK [2][-]{section*.16}{Numerical Code}{section*.13}% 16
