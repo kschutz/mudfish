@@ -3,6 +3,8 @@ import scipy
 import re
 import math
 
+#rawr
+
 class particle:
     """A way to track the mass, spin statistics, degrees of freedom, and temperature of particles in the model"""
     
