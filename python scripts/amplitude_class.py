@@ -76,7 +76,7 @@ class amplitude:
                 p1 = p(e3,m3)
                 x0 = (-(e3-e1)**2 + m2**2 + p1**2 +pa**2)/(2*p1*pa)
                 if x0>-1 and x0<1:
-                    return 1/(4*(2*np.pi)**3)*self.form(s)
+                    return 1/(4*(2*np.pi)**3)*self.form(var)
                 else:
                     return 0
             else:
